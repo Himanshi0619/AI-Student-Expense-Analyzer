@@ -187,4 +187,3 @@ with st.expander("Model Information"):
         "Unusual spending detection: Isolation Forest"
     )
 
-README.md
