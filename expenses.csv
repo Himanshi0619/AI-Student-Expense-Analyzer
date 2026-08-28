@@ -1,0 +1,601 @@
+transaction_id,description,amount,category
+E001,books,562.71,Education
+E002,shoes,751.74,Shopping
+E003,groceries,240.91,Food
+E004,groceries,357.21,Food
+E005,movie,450.0,Entertainment
+E006,books,405.0,Education
+E007,dinner,366.35,Food
+E008,coffee,254.25,Food
+E009,dinner,145.72,Food
+E010,online order,1021.23,Shopping
+E011,cab,178.59,Travel
+E012,books,364.92,Education
+E013,shoes,892.03,Shopping
+E014,bag,338.2,Shopping
+E015,dinner,82.83,Food
+E016,electricity,271.76,Utilities
+E017,restaurant,114.11,Food
+E018,snacks,207.34,Food
+E019,books,299.06,Education
+E020,online order,423.72,Shopping
+E021,restaurant,1910.14,Food
+E022,snacks,162.61,Food
+E023,outing,515.43,Entertainment
+E024,game,263.35,Entertainment
+E025,exam fee,352.23,Education
+E026,groceries,189.21,Food
+E027,snacks,107.23,Food
+E028,internet,414.47,Utilities
+E029,streaming,381.58,Entertainment
+E030,groceries,157.86,Food
+E031,concert,381.4,Entertainment
+E032,metro,506.31,Travel
+E033,clothes,795.16,Shopping
+E034,notebook,279.58,Education
+E035,notebook,651.58,Education
+E036,restaurant,103.92,Food
+E037,groceries,197.74,Food
+E038,shoes,331.21,Shopping
+E039,clothes,440.07,Shopping
+E040,canteen lunch,196.67,Food
+E041,streaming,697.09,Entertainment
+E042,dinner,194.43,Food
+E043,electricity,332.25,Utilities
+E044,restaurant,157.19,Food
+E045,fuel,113.1,Travel
+E046,auto,159.13,Travel
+E047,groceries,146.3,Food
+E048,online course,724.12,Education
+E049,accessories,933.78,Shopping
+E050,streaming,226.16,Entertainment
+E051,metro,254.54,Travel
+E052,books,378.4,Education
+E053,clothes,589.93,Shopping
+E054,dinner,237.04,Food
+E055,accessories,1272.27,Shopping
+E056,printing,684.25,Education
+E057,cab,150.8,Travel
+E058,stationery,391.55,Education
+E059,movie,580.38,Entertainment
+E060,clothes,1240.92,Shopping
+E061,online order,644.83,Shopping
+E062,bag,735.88,Shopping
+E063,restaurant,109.41,Food
+E064,canteen lunch,105.07,Food
+E065,electricity,504.5,Utilities
+E066,internet,644.35,Utilities
+E067,books,435.65,Education
+E068,game,785.4,Entertainment
+E069,outing,588.36,Entertainment
+E070,notebook,336.62,Education
+E071,metro,1036.47,Travel
+E072,stationery,899.07,Education
+E073,electricity,344.4,Utilities
+E074,books,909.9,Education
+E075,electricity,107.67,Utilities
+E076,dinner,260.55,Food
+E077,movie,519.97,Entertainment
+E078,restaurant,157.34,Food
+E079,outing,521.08,Entertainment
+E080,shoes,327.08,Shopping
+E081,stationery,407.64,Education
+E082,coffee,211.38,Food
+E083,streaming,972.3,Entertainment
+E084,internet,277.19,Utilities
+E085,accessories,556.01,Shopping
+E086,electricity,279.26,Utilities
+E087,train,332.14,Travel
+E088,metro,255.08,Travel
+E089,snacks,141.82,Food
+E090,coffee,226.77,Food
+E091,dinner,188.04,Food
+E092,groceries,278.34,Food
+E093,notebook,328.1,Education
+E094,canteen lunch,155.32,Food
+E095,movie,419.12,Entertainment
+E096,online course,232.91,Education
+E097,shoes,914.03,Shopping
+E098,exam fee,506.09,Education
+E099,water,350.81,Utilities
+E100,restaurant,161.97,Food
+E101,concert,264.46,Entertainment
+E102,groceries,148.96,Food
+E103,cab,188.56,Travel
+E104,fuel,153.33,Travel
+E105,groceries,167.4,Food
+E106,mobile recharge,419.79,Utilities
+E107,groceries,420.62,Food
+E108,bus,237.98,Travel
+E109,dinner,202.12,Food
+E110,notebook,435.17,Education
+E111,auto,92.78,Travel
+E112,bus,217.39,Travel
+E113,train,226.04,Travel
+E114,groceries,545.34,Food
+E115,mobile recharge,320.98,Utilities
+E116,internet,400.87,Utilities
+E117,restaurant,177.21,Food
+E118,printing,265.96,Education
+E119,internet,585.35,Utilities
+E120,cab,308.59,Travel
+E121,restaurant,256.96,Food
+E122,groceries,119.55,Food
+E123,water,657.99,Utilities
+E124,snacks,95.79,Food
+E125,canteen lunch,234.4,Food
+E126,stationery,1205.87,Education
+E127,snacks,115.26,Food
+E128,coffee,139.51,Food
+E129,train,230.09,Travel
+E130,coffee,143.51,Food
+E131,dinner,89.58,Food
+E132,canteen lunch,185.64,Food
+E133,shoes,496.0,Shopping
+E134,train,272.26,Travel
+E135,coffee,119.01,Food
+E136,canteen lunch,2630.4,Food
+E137,train,154.65,Travel
+E138,online course,389.29,Education
+E139,internet,504.73,Utilities
+E140,bag,459.77,Shopping
+E141,restaurant,199.4,Food
+E142,groceries,324.14,Food
+E143,snacks,87.32,Food
+E144,mobile recharge,380.32,Utilities
+E145,coffee,202.33,Food
+E146,mobile recharge,497.58,Utilities
+E147,dinner,103.16,Food
+E148,notebook,248.4,Education
+E149,mobile recharge,442.66,Utilities
+E150,game,571.49,Entertainment
+E151,restaurant,201.48,Food
+E152,game,584.36,Entertainment
+E153,exam fee,331.37,Education
+E154,exam fee,499.58,Education
+E155,game,570.49,Entertainment
+E156,mobile recharge,253.78,Utilities
+E157,internet,810.4,Utilities
+E158,canteen lunch,222.78,Food
+E159,shoes,468.03,Shopping
+E160,coffee,241.87,Food
+E161,snacks,116.09,Food
+E162,groceries,256.5,Food
+E163,outing,842.17,Entertainment
+E164,books,311.05,Education
+E165,restaurant,277.68,Food
+E166,movie,602.06,Entertainment
+E167,dinner,260.57,Food
+E168,online course,1056.59,Education
+E169,restaurant,161.18,Food
+E170,printing,320.56,Education
+E171,books,301.56,Education
+E172,groceries,124.69,Food
+E173,mobile recharge,338.06,Utilities
+E174,outing,582.96,Entertainment
+E175,printing,509.67,Education
+E176,snacks,261.17,Food
+E177,bus,221.29,Travel
+E178,concert,961.7,Entertainment
+E179,clothes,710.18,Shopping
+E180,train,748.22,Travel
+E181,streaming,662.59,Entertainment
+E182,internet,237.99,Utilities
+E183,internet,216.16,Utilities
+E184,concert,621.24,Entertainment
+E185,movie,452.17,Entertainment
+E186,snacks,248.21,Food
+E187,accessories,989.87,Shopping
+E188,concert,483.88,Entertainment
+E189,groceries,122.96,Food
+E190,canteen lunch,91.04,Food
+E191,concert,408.98,Entertainment
+E192,restaurant,264.63,Food
+E193,metro,242.25,Travel
+E194,groceries,102.76,Food
+E195,snacks,194.59,Food
+E196,canteen lunch,214.08,Food
+E197,electricity,235.14,Utilities
+E198,train,235.76,Travel
+E199,train,225.84,Travel
+E200,bus,131.54,Travel
+E201,snacks,211.44,Food
+E202,snacks,231.67,Food
+E203,coffee,293.05,Food
+E204,fuel,353.48,Travel
+E205,accessories,430.38,Shopping
+E206,stationery,295.07,Education
+E207,coffee,226.95,Food
+E208,canteen lunch,226.82,Food
+E209,clothes,1008.67,Shopping
+E210,stationery,2547.78,Education
+E211,shoes,1034.33,Shopping
+E212,bus,366.73,Travel
+E213,electricity,537.66,Utilities
+E214,exam fee,603.28,Education
+E215,game,433.87,Entertainment
+E216,exam fee,633.2,Education
+E217,cab,155.38,Travel
+E218,online order,719.13,Shopping
+E219,restaurant,144.68,Food
+E220,accessories,830.02,Shopping
+E221,shoes,2266.99,Shopping
+E222,online course,194.22,Education
+E223,bus,299.6,Travel
+E224,metro,106.47,Travel
+E225,train,177.91,Travel
+E226,online course,734.56,Education
+E227,cab,226.46,Travel
+E228,online order,492.57,Shopping
+E229,fuel,159.45,Travel
+E230,canteen lunch,244.39,Food
+E231,groceries,129.58,Food
+E232,online course,496.04,Education
+E233,dinner,183.73,Food
+E234,shoes,596.69,Shopping
+E235,concert,1312.1,Entertainment
+E236,dinner,239.42,Food
+E237,mobile recharge,140.7,Utilities
+E238,fuel,239.26,Travel
+E239,exam fee,334.1,Education
+E240,accessories,1174.04,Shopping
+E241,metro,154.01,Travel
+E242,books,427.36,Education
+E243,movie,627.57,Entertainment
+E244,shoes,1181.1,Shopping
+E245,groceries,104.88,Food
+E246,books,387.12,Education
+E247,books,363.41,Education
+E248,cab,163.96,Travel
+E249,online order,1770.59,Shopping
+E250,printing,539.96,Education
+E251,exam fee,255.15,Education
+E252,streaming,755.7,Entertainment
+E253,outing,1299.3,Entertainment
+E254,metro,350.11,Travel
+E255,accessories,403.79,Shopping
+E256,metro,176.92,Travel
+E257,game,884.23,Entertainment
+E258,online order,581.82,Shopping
+E259,notebook,549.48,Education
+E260,canteen lunch,255.07,Food
+E261,shoes,527.15,Shopping
+E262,snacks,175.24,Food
+E263,movie,116.28,Entertainment
+E264,dinner,113.52,Food
+E265,metro,196.36,Travel
+E266,clothes,456.28,Shopping
+E267,auto,458.62,Travel
+E268,printing,236.44,Education
+E269,restaurant,147.66,Food
+E270,train,233.33,Travel
+E271,mobile recharge,669.48,Utilities
+E272,outing,262.03,Entertainment
+E273,bus,371.32,Travel
+E274,electricity,351.62,Utilities
+E275,accessories,514.36,Shopping
+E276,exam fee,554.02,Education
+E277,stationery,492.17,Education
+E278,streaming,381.65,Entertainment
+E279,restaurant,185.74,Food
+E280,printing,378.36,Education
+E281,fuel,231.53,Travel
+E282,shoes,1077.69,Shopping
+E283,concert,1020.77,Entertainment
+E284,mobile recharge,200.52,Utilities
+E285,mobile recharge,913.97,Utilities
+E286,restaurant,74.78,Food
+E287,restaurant,168.12,Food
+E288,snacks,234.56,Food
+E289,metro,249.65,Travel
+E290,auto,976.52,Travel
+E291,accessories,728.48,Shopping
+E292,restaurant,144.19,Food
+E293,canteen lunch,138.07,Food
+E294,fuel,322.45,Travel
+E295,online course,528.43,Education
+E296,canteen lunch,131.78,Food
+E297,clothes,1199.23,Shopping
+E298,shoes,918.64,Shopping
+E299,canteen lunch,259.5,Food
+E300,notebook,597.4,Education
+E301,groceries,123.95,Food
+E302,dinner,139.89,Food
+E303,auto,307.94,Travel
+E304,shoes,1052.87,Shopping
+E305,exam fee,445.79,Education
+E306,shoes,843.37,Shopping
+E307,mobile recharge,621.96,Utilities
+E308,online course,344.83,Education
+E309,printing,575.62,Education
+E310,fuel,200.87,Travel
+E311,coffee,163.2,Food
+E312,shoes,1311.68,Shopping
+E313,snacks,260.97,Food
+E314,outing,721.03,Entertainment
+E315,outing,899.71,Entertainment
+E316,bag,807.6,Shopping
+E317,exam fee,611.63,Education
+E318,train,191.33,Travel
+E319,books,520.67,Education
+E320,streaming,471.56,Entertainment
+E321,snacks,188.03,Food
+E322,printing,588.2,Education
+E323,accessories,553.58,Shopping
+E324,coffee,461.52,Food
+E325,electricity,222.57,Utilities
+E326,stationery,260.57,Education
+E327,accessories,1347.17,Shopping
+E328,fuel,314.15,Travel
+E329,online course,595.92,Education
+E330,movie,663.39,Entertainment
+E331,restaurant,179.01,Food
+E332,restaurant,120.2,Food
+E333,exam fee,465.62,Education
+E334,bus,162.21,Travel
+E335,online course,697.88,Education
+E336,dinner,168.47,Food
+E337,auto,151.74,Travel
+E338,train,190.38,Travel
+E339,bag,963.36,Shopping
+E340,stationery,349.17,Education
+E341,mobile recharge,241.76,Utilities
+E342,restaurant,200.86,Food
+E343,notebook,2329.19,Education
+E344,accessories,636.82,Shopping
+E345,bus,177.98,Travel
+E346,dinner,199.81,Food
+E347,metro,114.66,Travel
+E348,train,116.78,Travel
+E349,train,159.23,Travel
+E350,printing,408.79,Education
+E351,electricity,402.56,Utilities
+E352,cab,427.32,Travel
+E353,snacks,264.78,Food
+E354,groceries,167.5,Food
+E355,canteen lunch,178.47,Food
+E356,shoes,509.52,Shopping
+E357,groceries,178.51,Food
+E358,exam fee,395.18,Education
+E359,stationery,520.33,Education
+E360,books,310.13,Education
+E361,game,631.64,Entertainment
+E362,dinner,358.77,Food
+E363,fuel,209.49,Travel
+E364,online course,539.16,Education
+E365,canteen lunch,245.56,Food
+E366,exam fee,375.67,Education
+E367,water,387.14,Utilities
+E368,canteen lunch,181.02,Food
+E369,printing,470.22,Education
+E370,auto,155.36,Travel
+E371,canteen lunch,182.0,Food
+E372,restaurant,225.22,Food
+E373,canteen lunch,345.84,Food
+E374,bus,338.76,Travel
+E375,exam fee,1185.81,Education
+E376,dinner,127.44,Food
+E377,game,740.37,Entertainment
+E378,dinner,195.48,Food
+E379,restaurant,482.2,Food
+E380,stationery,312.78,Education
+E381,coffee,123.36,Food
+E382,cab,167.99,Travel
+E383,coffee,69.21,Food
+E384,electricity,276.26,Utilities
+E385,books,319.78,Education
+E386,exam fee,481.51,Education
+E387,dinner,209.92,Food
+E388,online course,1046.83,Education
+E389,shoes,1226.97,Shopping
+E390,coffee,138.84,Food
+E391,canteen lunch,120.14,Food
+E392,fuel,274.51,Travel
+E393,online course,248.43,Education
+E394,snacks,410.39,Food
+E395,accessories,1360.16,Shopping
+E396,dinner,145.74,Food
+E397,internet,161.91,Utilities
+E398,train,404.59,Travel
+E399,dinner,170.96,Food
+E400,internet,610.91,Utilities
+E401,dinner,87.84,Food
+E402,online order,610.88,Shopping
+E403,online order,801.89,Shopping
+E404,water,357.48,Utilities
+E405,groceries,147.0,Food
+E406,cab,291.17,Travel
+E407,water,216.48,Utilities
+E408,train,206.35,Travel
+E409,restaurant,190.01,Food
+E410,online order,1008.39,Shopping
+E411,canteen lunch,247.94,Food
+E412,groceries,108.51,Food
+E413,outing,250.7,Entertainment
+E414,books,799.67,Education
+E415,electricity,406.46,Utilities
+E416,notebook,321.32,Education
+E417,fuel,442.15,Travel
+E418,auto,231.76,Travel
+E419,coffee,306.02,Food
+E420,cab,226.79,Travel
+E421,water,884.72,Utilities
+E422,auto,484.7,Travel
+E423,bus,196.68,Travel
+E424,game,774.19,Entertainment
+E425,cab,294.14,Travel
+E426,restaurant,333.23,Food
+E427,outing,323.89,Entertainment
+E428,canteen lunch,245.1,Food
+E429,auto,354.22,Travel
+E430,restaurant,81.58,Food
+E431,movie,293.58,Entertainment
+E432,stationery,179.75,Education
+E433,bus,194.88,Travel
+E434,snacks,248.6,Food
+E435,printing,884.75,Education
+E436,books,465.26,Education
+E437,coffee,374.59,Food
+E438,snacks,96.73,Food
+E439,fuel,651.92,Travel
+E440,books,438.89,Education
+E441,internet,416.03,Utilities
+E442,bag,788.32,Shopping
+E443,stationery,177.49,Education
+E444,metro,211.35,Travel
+E445,mobile recharge,194.6,Utilities
+E446,bus,297.37,Travel
+E447,notebook,530.71,Education
+E448,exam fee,294.8,Education
+E449,groceries,142.84,Food
+E450,restaurant,111.76,Food
+E451,internet,340.27,Utilities
+E452,metro,338.13,Travel
+E453,train,141.18,Travel
+E454,notebook,564.57,Education
+E455,game,393.86,Entertainment
+E456,accessories,559.93,Shopping
+E457,train,209.66,Travel
+E458,canteen lunch,112.97,Food
+E459,snacks,140.3,Food
+E460,outing,291.65,Entertainment
+E461,water,847.3,Utilities
+E462,streaming,508.0,Entertainment
+E463,online course,328.45,Education
+E464,train,242.24,Travel
+E465,auto,209.16,Travel
+E466,concert,452.67,Entertainment
+E467,notebook,593.25,Education
+E468,streaming,703.09,Entertainment
+E469,groceries,141.77,Food
+E470,cab,169.78,Travel
+E471,fuel,194.39,Travel
+E472,shoes,283.94,Shopping
+E473,books,227.56,Education
+E474,coffee,332.97,Food
+E475,bus,461.21,Travel
+E476,streaming,446.99,Entertainment
+E477,restaurant,233.32,Food
+E478,dinner,207.06,Food
+E479,fuel,879.3,Travel
+E480,mobile recharge,579.25,Utilities
+E481,auto,207.69,Travel
+E482,fuel,143.11,Travel
+E483,bus,106.78,Travel
+E484,outing,547.94,Entertainment
+E485,auto,1217.37,Travel
+E486,printing,237.28,Education
+E487,movie,373.77,Entertainment
+E488,notebook,276.59,Education
+E489,online course,961.47,Education
+E490,mobile recharge,520.44,Utilities
+E491,bus,219.21,Travel
+E492,clothes,1557.11,Shopping
+E493,fuel,227.79,Travel
+E494,canteen lunch,122.17,Food
+E495,canteen lunch,357.22,Food
+E496,snacks,229.4,Food
+E497,metro,137.95,Travel
+E498,stationery,413.06,Education
+E499,shoes,539.47,Shopping
+E500,canteen lunch,96.61,Food
+E501,printing,682.68,Education
+E502,notebook,1062.61,Education
+E503,stationery,239.82,Education
+E504,restaurant,231.9,Food
+E505,printing,335.78,Education
+E506,canteen lunch,144.57,Food
+E507,streaming,383.0,Entertainment
+E508,internet,237.26,Utilities
+E509,snacks,183.97,Food
+E510,electricity,240.81,Utilities
+E511,printing,508.24,Education
+E512,accessories,782.12,Shopping
+E513,concert,449.03,Entertainment
+E514,water,232.65,Utilities
+E515,restaurant,138.85,Food
+E516,stationery,632.18,Education
+E517,groceries,225.51,Food
+E518,groceries,115.94,Food
+E519,bus,230.06,Travel
+E520,exam fee,631.04,Education
+E521,clothes,377.43,Shopping
+E522,water,446.95,Utilities
+E523,game,371.08,Entertainment
+E524,shoes,1034.2,Shopping
+E525,online course,319.19,Education
+E526,dinner,79.9,Food
+E527,exam fee,216.34,Education
+E528,shoes,817.5,Shopping
+E529,exam fee,505.79,Education
+E530,online course,299.56,Education
+E531,clothes,1066.33,Shopping
+E532,exam fee,213.06,Education
+E533,snacks,174.73,Food
+E534,cab,127.57,Travel
+E535,dinner,978.08,Food
+E536,bag,817.25,Shopping
+E537,online course,305.53,Education
+E538,game,420.55,Entertainment
+E539,water,550.47,Utilities
+E540,electricity,269.98,Utilities
+E541,bag,1165.23,Shopping
+E542,streaming,300.74,Entertainment
+E543,internet,444.23,Utilities
+E544,shoes,1530.45,Shopping
+E545,streaming,164.41,Entertainment
+E546,electricity,244.53,Utilities
+E547,restaurant,233.37,Food
+E548,coffee,164.28,Food
+E549,snacks,937.83,Food
+E550,bag,609.61,Shopping
+E551,exam fee,467.88,Education
+E552,mobile recharge,326.32,Utilities
+E553,accessories,1353.05,Shopping
+E554,coffee,201.83,Food
+E555,train,256.1,Travel
+E556,canteen lunch,149.55,Food
+E557,printing,361.34,Education
+E558,electricity,288.09,Utilities
+E559,books,537.4,Education
+E560,canteen lunch,148.94,Food
+E561,cab,250.64,Travel
+E562,dinner,458.01,Food
+E563,concert,739.97,Entertainment
+E564,auto,189.98,Travel
+E565,online order,1373.56,Shopping
+E566,fuel,917.29,Travel
+E567,accessories,319.72,Shopping
+E568,printing,1218.61,Education
+E569,online course,193.91,Education
+E570,snacks,153.67,Food
+E571,restaurant,1004.5,Food
+E572,electricity,744.21,Utilities
+E573,groceries,208.53,Food
+E574,fuel,199.34,Travel
+E575,cab,319.53,Travel
+E576,canteen lunch,66.55,Food
+E577,water,389.15,Utilities
+E578,dinner,254.64,Food
+E579,stationery,231.34,Education
+E580,mobile recharge,585.59,Utilities
+E581,shoes,931.63,Shopping
+E582,internet,290.34,Utilities
+E583,coffee,239.3,Food
+E584,dinner,500.08,Food
+E585,concert,542.64,Entertainment
+E586,metro,246.0,Travel
+E587,online order,650.6,Shopping
+E588,dinner,122.8,Food
+E589,electricity,508.56,Utilities
+E590,clothes,544.23,Shopping
+E591,clothes,826.18,Shopping
+E592,snacks,145.19,Food
+E593,shoes,992.43,Shopping
+E594,books,522.9,Education
+E595,canteen lunch,287.11,Food
+E596,restaurant,143.09,Food
+E597,exam fee,398.54,Education
+E598,restaurant,115.88,Food
+E599,online order,655.03,Shopping
+E600,printing,533.27,Education
